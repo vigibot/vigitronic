@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri /Users/james/Documents/GitHub/vigitronics/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri /Users/james/Documents/GitHub/vigitronics/ul_MAX17048G/KiCAD/2019-08-18_11-06-53/footprints.pretty)(options "")(descr ""))
+)
